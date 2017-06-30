@@ -50,5 +50,3 @@ html += buildList(correctQ);
 html += '<h2>You got these questions incorrect:</h2>';
 html += buildList(incorrectQ);
 print(html);
-
-
