@@ -1,3 +1,6 @@
+//Example question app from class, only practice
+
+
 var questionAnswers = [
   ['What kind of bird is pink and can\'t fly?', 'FLAMINGO'],
   ['What function removes an item from an array?', 'POP'],
